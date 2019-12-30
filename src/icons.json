@@ -1,49 +1,51 @@
-[{
+[
+  {
     "id": "1",
-    "image": "<img src='../public/img/beerus.png'>"
+    "image": "../img/beerus.png"
   },
   {
     "id": "2",
-    "image": "<img src='../public/img/DBS.png'>"
+    "image": "../img/DBS.png"
   },
   {
     "id": "3",
-    "image": "<img src='public/img/dbzgoku.png'>"
+    "image": "../img/dbzgoku.png"
   },
   {
     "id": "4",
-    "image": "<img src='public/img/dragonball4.jpg'>"
+    "image": "../img/dragonball4.jpg"
   },
   {
     "id": "5",
-    "image": "<img src='../../public/img/dragonballs.jpg'>"
+    "image": "../img/dragonballs.jpg"
   },
   {
     "id": "6",
-    "image": "<img src='public/img/gogeta.jpeg'>"
+    "image": "../img/gogeta.jpeg"
   },
   {
     "id": "7",
-    "image": "<img src='public/img/gogugt.jpg'>"
+    "image": "../img/gogugt.jpg"
   },
   {
     "id": "8",
-    "image": "<img src='public/img/gokufreeza.png'>"
+    "image": "../img/gokufreeza.png"
   }, 
   {
     "id": "9",
-    "image": "<img src='public/img/krillin.jpg'>"
+    "image": "../img/krillin.jpg"
   },
   {
     "id": "10",
-    "image": "<img src='public/img/piccolo.jpeg'>"
+    "image": "../img/piccolo.jpeg"
   },
   {
     "id": "11",
-    "image": "<img src='public/img/roshi.png'>"
+    "image": "../img/roshi.jpg"
   },
   {
     "id": "12",
-    "image": "<img src='public/img/gohan.png'>"
+    "image": "../img/gohan.png"
   }
+  
 ]

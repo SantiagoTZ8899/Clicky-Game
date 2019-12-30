@@ -7,7 +7,7 @@ import NavBar from './components/NavBar';
 import Banner from './components/Banner';
 import IconCard from './components/IconCard';
 import Icons from './icons.json';
-// import "./components/IconCard.css";
+import "./components/IconCard.css";
 
 // while there are element in the array, pick an index at random to replace it with
 const shuffleArray = (array) => {

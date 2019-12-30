@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  /* background: black; */
+  background: radial-gradient( #ffed46, #fab040, rgb(252, 85, 44));
+}
+
+.container {
+  background: rgba(255, 0, 0, 0.425);
+}

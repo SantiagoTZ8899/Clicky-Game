@@ -2,7 +2,7 @@ import React from "react";
 
 const style = {
     bgDark: {
-        backgroundColor: `rgb(30, 200, 230)`
+        backgroundColor: `transparent`
     }
 }
 
