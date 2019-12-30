@@ -1,10 +1,10 @@
 [{
     "id": "1",
-    "image": "<img src='public/img/beerus.png'>"
+    "image": "<img src='../public/img/beerus.png'>"
   },
   {
     "id": "2",
-    "image": "<img src='public/img/DBS.png'>"
+    "image": "<img src='../public/img/DBS.png'>"
   },
   {
     "id": "3",
@@ -16,7 +16,7 @@
   },
   {
     "id": "5",
-    "image": "<img src='../public/img/dragonballs.jpg'>"
+    "image": "<img src='../../public/img/dragonballs.jpg'>"
   },
   {
     "id": "6",
