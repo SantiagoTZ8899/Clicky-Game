@@ -17,15 +17,15 @@
   },
   {
     "id": "5",
-    "image": "../public/img/dragonballs.jpg"
+    "image": ".../public/img/dragonballs.jpg"
   },
   {
     "id": "6",
-    "image": "../public/img/gogeta.jpeg"
+    "image": ".../public/img/gogeta.jpeg"
   },
   {
     "id": "7",
-    "image": "../public/img/gogugt.jpg"
+    "image": ".../public/img/gogugt.jpg"
   },
   {
     "id": "8",
