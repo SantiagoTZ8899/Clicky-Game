@@ -1,11 +1,11 @@
 [
   {
     "id": "1",
-    "image": "img/beerus.png"
+    "image": "./img/beerus.png"
   },
   {
     "id": "2",
-    "image": "../img/DBS.png"
+    "image": "./img/DBS.png"
   },
   {
     "id": "3",
