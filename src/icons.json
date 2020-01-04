@@ -1,31 +1,31 @@
 [
   {
     "id": "1",
-    "image": "../public/img/beerus.png"
+    "image": "../img/beerus.png"
   },
   {
     "id": "2",
-    "image": "../public/img/DBS.png"
+    "image": "../img/DBS.png"
   },
   {
     "id": "3",
-    "image": "../public/img/dbzgoku.png"
+    "image": "../img/dbzgoku.png"
   },
   {
     "id": "4",
-    "image": "../public/img/dragonball4.jpg"
+    "image": "../img/dragonball4.jpg"
   },
   {
     "id": "5",
-    "image": ".../public/img/dragonballs.jpg"
+    "image": "../img/dragonballs.jpg"
   },
   {
     "id": "6",
-    "image": ".../public/img/gogeta.jpeg"
+    "image": "../img/gogeta.jpeg"
   },
   {
     "id": "7",
-    "image": ".../public/img/gogugt.jpg"
+    "image": "../img/gogugt.jpg"
   },
   {
     "id": "8",
