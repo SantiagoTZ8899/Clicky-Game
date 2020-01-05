@@ -13,4 +13,4 @@ The game keeps track of your score at the top, and maintains the top score ahiev
 
 # Try it
 
-https://glacial-earth-65642.herokuapp.com/
+http://SantiagoTZ8899.github.io/Clicky-Game
